@@ -7,7 +7,7 @@
 
 ## Tampilan
 
-https://github.com/bettaekapras/Project_UAS_Mobile2/assets/169062721/2d0ebfbb-0aa5-4920-9cd0-d47ba3f6f52a
+https://github.com/bettaekapras/UAS_Mobile2/assets/169062721/e7c02309-386e-44e6-b894-e900de131c28
 
 # Getting Started
 
