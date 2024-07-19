@@ -1,11 +1,4 @@
-# Project_UAS_Mobile2
-
-| Anggota Kelompok                 |
-| ---------------------------------|
-| BETTA EKA PRASETYA (312210437)   |
-| MILA RISPA MAOLIDAH (312210249)  |
-| WEMPY DWI FIRMANSYAH (312210424) |
-| AZIZ RIZQI SHUBHAN (312210431)   |
+# Project_UAS
 
 ## Tampilan
 
